@@ -1,3 +1,5 @@
+import { strategies } from "@snapshot-labs/snapshot.js";
+
 import logo from './logo.svg';
 import './App.css';
 
